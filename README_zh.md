@@ -58,3 +58,9 @@ classic:
 1.0.0  
 前后端分离，确定基本架构  
 添加.password 支持  
+
+
+出错问题fork一份，cfworker中找出23行
+cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/xxxxx/goindex
+xxxxx改成自己Github的库
+比如cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/Reves/goindex
